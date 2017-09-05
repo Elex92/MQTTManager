@@ -1,0 +1,22 @@
+{
+  "name": "MQTTManager",
+  "version": "0.1.0",
+  "summary": "A short description of MQTTManager.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/sfy921011@163.com/MQTTManager",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sfy921011@163.com": "elex92@163.com"
+  },
+  "source": {
+    "git": "https://github.com/sfy921011@163.com/MQTTManager.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MQTTManager/Classes/**/*"
+}
