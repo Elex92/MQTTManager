@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MQTTManager_Example' do
+  pod 'MQTTManager', :path => '../'
+
+  target 'MQTTManager_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
